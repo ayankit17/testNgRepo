@@ -1,0 +1,19 @@
+TestNG
+-- unit test framework
+-- TDD Test Driven Development
+-- open source/free
+-- JAR files
+-- JAVA unit testing framework
+-- install testNG in eclipse : http://beust.com/eclipse
+
+
+//Purpose
+-- design test cases in a systematic way
+-- html reports
+-- diff annotations
+-- priorities/sequence
+-- dependency
+-- grouping
+-- data provider
+-- invocationCount for repeating test cases
+-- testng xml file is used to run test suite
